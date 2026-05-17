@@ -1,0 +1,7 @@
+﻿.\gradlew.bat : no main manifest attribute, in C:\Users\PANCHAKSHARI\Downloads\grama\\gradle\wrapper\gradle-wrapper.jar
+At line:1 char:1
++ .\gradlew.bat assembleDebug 2>&1 | Out-File -FilePath "build_output.t ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (no main manifes...dle-wrapper.jar:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
